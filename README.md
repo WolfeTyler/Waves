@@ -2,6 +2,5 @@ Ciao Ethereum Project Readme
 
 ![Ciao Ethereum](CiaoEthereum.png)
 
-Project can be found here on Replit:
-https://waveportal-baseline-student--wolfetylerb.repl.co/
+Project can be found [here](https://waveportal-baseline-student--wolfetylerb.repl.co/) on Replit
 
